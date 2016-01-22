@@ -13,5 +13,6 @@ public class BubbleSortTest {
 		Integer[] arrayIn = { 2, 1, 0 };
 		
 		bubble.sort(arrayIn);
+		
 	}
 }
